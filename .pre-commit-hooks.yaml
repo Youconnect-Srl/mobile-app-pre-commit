@@ -16,3 +16,9 @@
   entry: flutter analyze
   language: dart
   types: [dart]
+- id: sort-arb
+  name: Run sort_arb.sh
+  description: Sort .arb files
+  entry: sort_arb.sh
+  language: script
+  files: '.*\.arb'
