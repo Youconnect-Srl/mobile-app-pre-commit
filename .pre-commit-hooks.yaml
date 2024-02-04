@@ -1,0 +1,18 @@
+- id: dart-format
+  name: Run dart format
+  description: Formats dart code
+  entry: dart format
+  language: dart
+  types: [dart]
+- id: dart-analyze
+  name: Run dart analyze
+  description: Analyzes dart code
+  entry: dart analyze
+  language: dart
+  types: [dart]
+- id: flutter-analyze
+  name: Run flutter analyze
+  description: Analyzes a flutter project
+  entry: flutter analyze
+  language: dart
+  types: [dart]
