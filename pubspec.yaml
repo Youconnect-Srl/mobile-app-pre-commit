@@ -1,0 +1,8 @@
+name: pre_commit_hooks
+description: required pubspec for dart pre-commit hooks. See https://pre-commit.com/#dart
+version: 0.0.1
+
+environment:
+  sdk: '>=2.17.6 <4.0.0'
+
+executables: {}
