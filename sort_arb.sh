@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # sort all .arb files
 
 dart pub global activate arb_utils > /dev/null
